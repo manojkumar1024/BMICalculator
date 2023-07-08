@@ -1,4 +1,4 @@
 # BMICalculator
 
 
-Application Url:https://bmi-calculator-manoj.netlify.app/
+Application URL:https://bmi-calculator-manoj.netlify.app/
